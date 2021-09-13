@@ -10,7 +10,6 @@ public class Main {
 	}
 	
 	private static void displayGreeting() {
-//		System.out.println("HELLO HAPPY SALES PEOPLE!");
 		System.out.println("---fixCaps branch---");
 		System.out.println("THIS APP SHOWS SALES DATA");
 		System.out.println("----------------------");
