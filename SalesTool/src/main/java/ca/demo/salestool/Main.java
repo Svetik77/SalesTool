@@ -15,5 +15,6 @@ public class Main {
 		System.out.println("WOot! It pushed!");
 		
 		System.out.println("Test 1");
+		System.out.println("Test 1");
 	}
 }
